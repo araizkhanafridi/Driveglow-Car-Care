@@ -1221,10 +1221,6 @@ export default function Home() {
                   +00 000 000 0000
                 </p>
 
-                <p>
-                  @driveglowcarcare
-                </p>
-
               </div>
 
             </div>
